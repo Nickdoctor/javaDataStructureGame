@@ -1,0 +1,5 @@
+string1*The Sign Reads: How do trees access the internet?  They log in.'
+string2*The Sign Reads: What did the tree wear to the pool party?  Swimming trunks.'
+string3*The Sign Reads: What type of tree fits into your hand?  A palm tree.'
+string4*The Sign Reads: What did the tree say to the lumberjack?  Leaf me alone!'
+string5*The Sign Reads: What is every tree’s favourite shape?  A tree-angle.'
